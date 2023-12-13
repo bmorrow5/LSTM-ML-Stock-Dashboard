@@ -1,0 +1,26 @@
+,ticker,company_name,price,change,percent_change,volume
+24,FCPT,"Four Corners Property Trust, Inc.",24.22,-0.93,-3.7,1333000.0
+23,ACAD,ACADIA Pharmaceuticals Inc.,20.98,-0.81,-3.72,1440000.0
+22,DG,Dollar General Corporation,127.22,-5.08,-3.84,6689000.0
+21,ENPH,"Enphase Energy, Inc.",103.01,-4.16,-3.88,4409000.0
+20,RYTM,"Rhythm Pharmaceuticals, Inc.",36.49,-1.51,-3.97,462616.0
+19,AKO-B,Embotelladora Andina S.A.,14.0,-0.59,-4.04,22265.0
+18,RCKT,"Rocket Pharmaceuticals, Inc.",25.23,-1.07,-4.07,1273000.0
+17,ALNY,"Alnylam Pharmaceuticals, Inc.",170.04,-7.22,-4.07,467361.0
+16,CBAY,"CymaBay Therapeutics, Inc.",20.88,-0.89,-4.09,2041000.0
+15,CIEN,Ciena Corporation,44.35,-1.96,-4.23,4528000.0
+14,GTES,Gates Industrial Corporation plc,11.72,-0.53,-4.33,9861000.0
+13,GEF,"Greif, Inc.",64.36,-2.97,-4.41,276275.0
+12,MTHRY,"M3, Inc.",7.29,-0.35,-4.58,32998.0
+11,IXHL,Incannex Healthcare Inc.,5.53,-0.28,-4.82,66417.0
+10,GME,GameStop Corp.,15.55,-0.81,-4.95,10401000.0
+9,XPEV,XPeng Inc.,15.15,-0.85,-5.31,14219000.0
+8,FIZZ,National Beverage Corp.,46.58,-2.75,-5.57,238026.0
+7,MNSO,MINISO Group Holding Limited,19.55,-1.45,-6.9,3600000.0
+6,RUN,Sunrun Inc.,12.89,-0.98,-7.07,16527999.999999998
+5,CRSP,CRISPR Therapeutics AG,64.54,-5.67,-8.08,17230000.0
+4,BEAM,Beam Therapeutics Inc.,26.4,-2.35,-8.17,1780000.0
+3,MDGL,"Madrigal Pharmaceuticals, Inc.",208.32,-27.29,-11.58,1004000.0
+2,RH,RH,242.01,-39.39,-14.0,3732000.0
+1,HCP,"HashiCorp, Inc.",20.81,-4.09,-16.43,17561000.0
+0,NGLOY,Anglo American plc,11.38,-2.68,-19.06,1646000.0

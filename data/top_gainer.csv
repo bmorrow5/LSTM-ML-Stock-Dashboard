@@ -1,0 +1,26 @@
+,ticker,company_name,price,change,percent_change,volume
+24,LGF-B,Lions Gate Entertainment Corp.,9.64,0.55,6.05,1053000.0
+23,LGF-A,Lions Gate Entertainment Corp.,10.18,0.59,6.15,780653.0
+22,CVNA,Carvana Co.,40.26,2.36,6.23,13284000.0
+21,LYFT,"Lyft, Inc.",13.21,0.78,6.28,22656000.0
+20,RIOT,"Riot Platforms, Inc.",15.83,0.95,6.38,31413000.0
+19,SMCI,"Super Micro Computer, Inc.",272.65,16.5,6.44,3158000.0
+18,AFRM,"Affirm Holdings, Inc.",42.07,2.66,6.75,27539000.0
+17,OROCF,Allkem Limited,6.3,0.4,6.78,48629.0
+16,LTHM,Livent Corporation,15.52,1.03,7.11,7837000.0
+15,SYNA,Synaptics Incorporated,106.75,7.21,7.24,529133.0
+14,LNTH,"Lantheus Holdings, Inc.",73.71,5.18,7.56,949992.0
+13,COIN,"Coinbase Global, Inc.",146.62,10.43,7.66,12024000.0
+12,ARM,Arm Holdings plc,67.23,4.79,7.67,18816000.0
+11,ACHR,Archer Aviation Inc.,6.73,0.48,7.68,7281000.0
+10,MONDF,Mondi plc,18.25,1.38,8.15,17615.0
+9,MARA,"Marathon Digital Holdings, Inc.",16.78,1.27,8.19,53071000.0
+8,HUT,Hut 8 Corp.,10.25,0.8,8.47,6155000.0
+7,ICHGF,InterContinental Hotels Group PLC,85.96,6.71,8.47,80831.0
+6,AI,"C3.ai, Inc.",28.27,2.25,8.65,16088000.000000002
+5,UPST,"Upstart Holdings, Inc.",36.92,3.05,9.01,13751000.0
+4,SITM,SiTime Corporation,114.81,10.31,9.87,237513.0
+3,PARAA,Paramount Global,20.75,2.04,10.9,112152.0
+2,AX,"Axos Financial, Inc.",49.9,5.27,11.81,2259000.0
+1,PARA,Paramount Global,16.85,1.82,12.11,49773000.0
+0,NWTN,NWTN Inc.,8.45,1.28,17.85,37026.0
