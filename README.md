@@ -1,6 +1,8 @@
+<img width="1409" alt="Entire Dash New" src="https://github.com/bmorrow5/LSTM-ML-Stock-Dashboard/assets/126207635/64726662-c60c-4c23-9c4d-b33f32a70e51">
+
 This stock market dashboard needs to be run in jupyter notebook or jupyter lab, and will not work in most other IDEs due to how the packages run on jupyter notebook to host the dashboard localhost server. (Probably because Panel is owned by Anaconda)
 
-To run the stock dashboard navigate to the folder bmorrow_final_project. We need to set up the environment to make sure this easily runs. 
+To run the stock dashboard we first need to install the environment. Navigate to the folder LSTM-ML-Stock-Dashboard. We need to set up the environment to make sure this easily runs. 
 Next run the commands:
 
 conda env create -f environment.yaml
